@@ -1,0 +1,3 @@
+# Excluding passwords.txt
+*.txt
+!apples.txt
